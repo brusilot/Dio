@@ -15,11 +15,11 @@ Habilidades:
    
 Melhorias:
 
-  Poder excluir produtos
-  - Adicionar botão de exclusão no listar
-  - pegar o id do produto
-  - chamar um DELETE where ID = {idProduto}
-  Poder Atualizar produtos
-  - Adicionar tela de update no listar
-  - pegar o id do produto
-  - chamar um UPDATE where ID = {idProduto}
+  - Poder excluir produtos
+      - Adicionar botão de exclusão no listar
+      - pegar o id do produto
+      - chamar um DELETE where ID = {idProduto}
+  - Poder Atualizar produtos
+      - Adicionar tela de update no listar
+      - pegar o id do produto
+      - chamar um UPDATE where ID = {idProduto}
